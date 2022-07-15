@@ -1,0 +1,35 @@
+Age,HPE,Stage,Tumor Size,Surgery,surgerylevel,relapse_time,relapse,Chemo given initially,Treatment given on relapse,Outcome_time,Survival ,event
+65,AGCT,Ia ,8x9,Complete Surgery,1,12,1,nil, 4 cycles CDDP +CTx chemo,150,Alive,0
+48,AGCT,Ic ,NA,Complete Surgery,1,0,0,6 x CDDP +Ctx,nil,148,Alive,0
+52,AGCT,Ia ,NA,Incomplete Surgery,2,24,1,nil, 6xCDDP+ Ctx ; 6xCDDP + Etop,140,Alive,0
+42,AGCT,Ic ,25 cm,Incomplete Surgery,2,11,1,6 x CDDP +Ctx,6xEP,133,Alive,0
+25,AGCT,IIIc ,NA,Incomplete Surgery,2,24,1,6xCDDP+ Ctx ; 6xCDDP + Etop,PEB ;VAC;CDDP +Ctx  each 6 cycles,132,Alive,0
+50,AGCT,IIIc ,NA,Complete Surgery,2,0,0,6 x CDDP +Ctx,nil,126,Alive,0
+35,SCST,Ic ,9 cm,Complete Surgery,1,89,1,6 x CDDP +Ctx,6xEP,123,Alive,0
+44,AGCT,Ic ,NA,FSO,3,26,1,nil,6 x CDDP +Ctx,120,Alive,0
+48,AGCT,IIIa ,NA,Complete Surgery,1,76,1,,6 x CDDP +Ctx,98,Alive,0
+19,AGCT,Ia ,10cm,FSO,3,13,1,nil, 6xCDDP+ Ctx ; 6xCDDP + Etop ; 4xPVB,98,Alive,0
+45,AGCT,IIIc ,>10cm,Incomplete Surgery,2,0,0,6xCDDP+ VCR ; 6xCDDP +VP16 ;oral endoxan,nil,90,Alive,0
+40,AGCT,Ia ,9x9cm,Complete Surgery,1,0,0,6 x CDDP +Ctx,nil,87,Alive,0
+23,AGCT,Ic ,7x9 cm,FSO,3,0,0,PEB 4 cycles ,nil,85,Alive,0
+44,AGCT,Ic ,11x12 cm,Incomplete Surgery,2,23,1,nil, 6xCDDP+ Ctx ; 6xCDDP + Etop,85,Alive,0
+38,AGCT,IIa ,10.6x11.94 cm,Optimal surgery,2,0,0,6 x CDDP +Ctx,nil,83,Alive,0
+28,AGCT,Ia ,7cm,Complete Surgery,1,75,1,nil, 6xCDDP+ Ctx ; 6xCDDP + Etop,75,Alive,0
+57,AGCT,Ia ,15x10 cm,Complete Surgery,1,0,0,6 x CDDP +Ctx,nil,72,Alive,0
+58,AGCT,IIIc ,8x8 cm,Complete Surgery,1,30,1,6 x CDDP +Ctx,6xEP; PVB,61,Alive,0
+60,AGCT,IIIa ,NA,Complete Surgery,1,0,0,6 x CDDP +Ctx,nil,43,Alive,0
+42,SCST,IV ,10 cm,Incomplete Surgery,2,26,1,6 x CDDP +Ctx,  6x EP,35,Died,1
+67,AGCT,IIC ,10x10,Incomplete Surgery,2,24,1,6 x CDDP +Ctx,"6xCDDP+ CTX  , 6xCDDP + Etop",33,Died,1
+60,AGCT,IIIc ,13x13,Incomplete Surgery,2,12,1,6 x CDDP +Ctx, 6xCDDP+ Ctx ; 6xCDDP + Etop,27,Died,1
+55,AGCT,Ia ,6 cm,Incomplete Surgery,2,24,1,nil,defaulted,26,Died,1
+18,SCST,Ic ,9 cm,FSO,3,11,1,6 x CDDP +Ctx,6xEP,23,Died,1
+21,AGCT,Ia ,10 cm,FSO,3,12,1,nil,6xEP,14,Died,1
+26,AGCT,IV ,20cm,FSO,3,25,1,CDDP+Bleo +Vinb 3 cycles, PR Then 2 yrs on Endoxan,8,Died,1
+14,JGCT,Ia ,10 cm,FSO,3,7,1,6xEP,nil,7,Died,1
+40,AGCT,IIIc ,18x20 cm,Incomplete Surgery,2,,1,nil,6 x CDDP +Ctx,5,Died,1
+56,SCST,IIIc ,8.1x8.1 cm,Incomplete Surgery,2,0,0,BEP,nil,3,Died,1
+42,AGCT,IIIc ,NA,Incomplete Surgery,2,,1,nil,defaulted,3,Died,1
+30,AGCT,IV ,NA,Incomplete Surgery,2,,1,nil,CDDP +VP16 4 cycles then 3 cycles,2,Died,1
+55,AGCT,IIIc ,12 cm,Incomplete Surgery,2,0,0,6xCDDP+ Ctx ; 6xCDDP + Etop,nil,16,LTFU,1
+21,JGCT,IIIc ,NA,FSO,3,,1,nil,6 x CDDP +Ctx,,LTFU,1
+54,AGCT,IIIc ,9x 10cm,Incomplete Surgery,2,16,1,nil, 6xCDDP+ Ctx ; 6xCDDP + Etop ; 4xPVB,28,LTFU,1
